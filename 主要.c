@@ -1,6 +1,5 @@
 #include<stdio>
 int main(void)
 {
-  printf("ss");
-  sss
+  printf("I love you");
 }
